@@ -1,0 +1,13 @@
+/mnt/d/Programacao/C#-Worskpace/Exercicio04/bin/Debug/netcoreapp3.1/Exercicio04
+/mnt/d/Programacao/C#-Worskpace/Exercicio04/bin/Debug/netcoreapp3.1/Exercicio04.deps.json
+/mnt/d/Programacao/C#-Worskpace/Exercicio04/bin/Debug/netcoreapp3.1/Exercicio04.runtimeconfig.json
+/mnt/d/Programacao/C#-Worskpace/Exercicio04/bin/Debug/netcoreapp3.1/Exercicio04.runtimeconfig.dev.json
+/mnt/d/Programacao/C#-Worskpace/Exercicio04/bin/Debug/netcoreapp3.1/Exercicio04.dll
+/mnt/d/Programacao/C#-Worskpace/Exercicio04/bin/Debug/netcoreapp3.1/Exercicio04.pdb
+/mnt/d/Programacao/C#-Worskpace/Exercicio04/obj/Debug/netcoreapp3.1/Exercicio04.csprojAssemblyReference.cache
+/mnt/d/Programacao/C#-Worskpace/Exercicio04/obj/Debug/netcoreapp3.1/Exercicio04.AssemblyInfoInputs.cache
+/mnt/d/Programacao/C#-Worskpace/Exercicio04/obj/Debug/netcoreapp3.1/Exercicio04.AssemblyInfo.cs
+/mnt/d/Programacao/C#-Worskpace/Exercicio04/obj/Debug/netcoreapp3.1/Exercicio04.csproj.CoreCompileInputs.cache
+/mnt/d/Programacao/C#-Worskpace/Exercicio04/obj/Debug/netcoreapp3.1/Exercicio04.dll
+/mnt/d/Programacao/C#-Worskpace/Exercicio04/obj/Debug/netcoreapp3.1/Exercicio04.pdb
+/mnt/d/Programacao/C#-Worskpace/Exercicio04/obj/Debug/netcoreapp3.1/Exercicio04.genruntimeconfig.cache
