@@ -24,3 +24,16 @@ D:/Programacao/C#-Worskpace/Exercicio01/obj/Debug/netcoreapp3.1/Exercicio01.cspr
 D:/Programacao/C#-Worskpace/Exercicio01/obj/Debug/netcoreapp3.1/Exercicio01.dll
 D:/Programacao/C#-Worskpace/Exercicio01/obj/Debug/netcoreapp3.1/Exercicio01.pdb
 D:/Programacao/C#-Worskpace/Exercicio01/obj/Debug/netcoreapp3.1/Exercicio01.genruntimeconfig.cache
+D:\SI\Programacao\C-Workspace\Exercicio01\bin\Debug\netcoreapp3.1\Exercicio01.exe
+D:\SI\Programacao\C-Workspace\Exercicio01\bin\Debug\netcoreapp3.1\Exercicio01.deps.json
+D:\SI\Programacao\C-Workspace\Exercicio01\bin\Debug\netcoreapp3.1\Exercicio01.runtimeconfig.json
+D:\SI\Programacao\C-Workspace\Exercicio01\bin\Debug\netcoreapp3.1\Exercicio01.runtimeconfig.dev.json
+D:\SI\Programacao\C-Workspace\Exercicio01\bin\Debug\netcoreapp3.1\Exercicio01.dll
+D:\SI\Programacao\C-Workspace\Exercicio01\bin\Debug\netcoreapp3.1\Exercicio01.pdb
+D:\SI\Programacao\C-Workspace\Exercicio01\obj\Debug\netcoreapp3.1\Exercicio01.csprojAssemblyReference.cache
+D:\SI\Programacao\C-Workspace\Exercicio01\obj\Debug\netcoreapp3.1\Exercicio01.AssemblyInfoInputs.cache
+D:\SI\Programacao\C-Workspace\Exercicio01\obj\Debug\netcoreapp3.1\Exercicio01.AssemblyInfo.cs
+D:\SI\Programacao\C-Workspace\Exercicio01\obj\Debug\netcoreapp3.1\Exercicio01.csproj.CoreCompileInputs.cache
+D:\SI\Programacao\C-Workspace\Exercicio01\obj\Debug\netcoreapp3.1\Exercicio01.dll
+D:\SI\Programacao\C-Workspace\Exercicio01\obj\Debug\netcoreapp3.1\Exercicio01.pdb
+D:\SI\Programacao\C-Workspace\Exercicio01\obj\Debug\netcoreapp3.1\Exercicio01.genruntimeconfig.cache

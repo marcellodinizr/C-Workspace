@@ -11,3 +11,16 @@
 /mnt/d/Programacao/C#-Worskpace/Exercicio02/obj/Debug/netcoreapp3.1/Exercicio02.dll
 /mnt/d/Programacao/C#-Worskpace/Exercicio02/obj/Debug/netcoreapp3.1/Exercicio02.pdb
 /mnt/d/Programacao/C#-Worskpace/Exercicio02/obj/Debug/netcoreapp3.1/Exercicio02.genruntimeconfig.cache
+D:\SI\Programacao\C-Workspace\Exercicio02\bin\Debug\netcoreapp3.1\Exercicio02.exe
+D:\SI\Programacao\C-Workspace\Exercicio02\bin\Debug\netcoreapp3.1\Exercicio02.deps.json
+D:\SI\Programacao\C-Workspace\Exercicio02\bin\Debug\netcoreapp3.1\Exercicio02.runtimeconfig.json
+D:\SI\Programacao\C-Workspace\Exercicio02\bin\Debug\netcoreapp3.1\Exercicio02.runtimeconfig.dev.json
+D:\SI\Programacao\C-Workspace\Exercicio02\bin\Debug\netcoreapp3.1\Exercicio02.dll
+D:\SI\Programacao\C-Workspace\Exercicio02\bin\Debug\netcoreapp3.1\Exercicio02.pdb
+D:\SI\Programacao\C-Workspace\Exercicio02\obj\Debug\netcoreapp3.1\Exercicio02.csprojAssemblyReference.cache
+D:\SI\Programacao\C-Workspace\Exercicio02\obj\Debug\netcoreapp3.1\Exercicio02.AssemblyInfoInputs.cache
+D:\SI\Programacao\C-Workspace\Exercicio02\obj\Debug\netcoreapp3.1\Exercicio02.AssemblyInfo.cs
+D:\SI\Programacao\C-Workspace\Exercicio02\obj\Debug\netcoreapp3.1\Exercicio02.csproj.CoreCompileInputs.cache
+D:\SI\Programacao\C-Workspace\Exercicio02\obj\Debug\netcoreapp3.1\Exercicio02.dll
+D:\SI\Programacao\C-Workspace\Exercicio02\obj\Debug\netcoreapp3.1\Exercicio02.pdb
+D:\SI\Programacao\C-Workspace\Exercicio02\obj\Debug\netcoreapp3.1\Exercicio02.genruntimeconfig.cache

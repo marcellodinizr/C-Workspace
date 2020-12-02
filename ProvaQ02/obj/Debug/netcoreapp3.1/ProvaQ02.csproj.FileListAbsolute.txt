@@ -1,0 +1,13 @@
+D:\SI\Programacao\C-Workspace\ProvaQ02\bin\Debug\netcoreapp3.1\ProvaQ02.exe
+D:\SI\Programacao\C-Workspace\ProvaQ02\bin\Debug\netcoreapp3.1\ProvaQ02.deps.json
+D:\SI\Programacao\C-Workspace\ProvaQ02\bin\Debug\netcoreapp3.1\ProvaQ02.runtimeconfig.json
+D:\SI\Programacao\C-Workspace\ProvaQ02\bin\Debug\netcoreapp3.1\ProvaQ02.runtimeconfig.dev.json
+D:\SI\Programacao\C-Workspace\ProvaQ02\bin\Debug\netcoreapp3.1\ProvaQ02.dll
+D:\SI\Programacao\C-Workspace\ProvaQ02\bin\Debug\netcoreapp3.1\ProvaQ02.pdb
+D:\SI\Programacao\C-Workspace\ProvaQ02\obj\Debug\netcoreapp3.1\ProvaQ02.csprojAssemblyReference.cache
+D:\SI\Programacao\C-Workspace\ProvaQ02\obj\Debug\netcoreapp3.1\ProvaQ02.AssemblyInfoInputs.cache
+D:\SI\Programacao\C-Workspace\ProvaQ02\obj\Debug\netcoreapp3.1\ProvaQ02.AssemblyInfo.cs
+D:\SI\Programacao\C-Workspace\ProvaQ02\obj\Debug\netcoreapp3.1\ProvaQ02.csproj.CoreCompileInputs.cache
+D:\SI\Programacao\C-Workspace\ProvaQ02\obj\Debug\netcoreapp3.1\ProvaQ02.dll
+D:\SI\Programacao\C-Workspace\ProvaQ02\obj\Debug\netcoreapp3.1\ProvaQ02.pdb
+D:\SI\Programacao\C-Workspace\ProvaQ02\obj\Debug\netcoreapp3.1\ProvaQ02.genruntimeconfig.cache
